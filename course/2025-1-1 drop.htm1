@@ -1,3 +1,18 @@
-    <div class="menu"> 
-      [<a href="/index.html"> 메인 페이지 </a>]
-    </div>
+<html>
+    <head>
+        <title> 수업 | 컴퓨터의 개념 맟 실습 </title>
+    </head>
+    <body>
+        <div class="menu"> 
+            [<a href="/index.html"> 메인 페이지 </a>]
+          </div>
+        <h1> [인문데이터과학개론] </h1>
+        <ul> <>
+            <li> 
+              강의시간: 월요일/수요일 15:30~16:45
+            </li>
+            <li> 장소: 14동 602호 </li>
+            <li> 교수자: 박수민 </li>
+          </ul>
+    </body>
+</html>
